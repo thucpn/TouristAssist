@@ -1,5 +1,6 @@
 ## TouristAssist - All-in-one AI assistant for tourism in Northern Territory (WIP - still under development)
 GovHack 2024 https://govhack.org/
+See our project at: https://hackerspace.govhack.org/projects/touristassist
 
 ![TouristAssist](./public/background.png)
 
