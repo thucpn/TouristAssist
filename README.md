@@ -47,7 +47,7 @@ TouristAssist is an all-in-one AI assistant for tourism in the Northern Territor
    ```
 
 4. Set up environment variables:
-   - Copy `.env` file
+   - Create `.env` file
    - Fill in the required credentials (contact the project maintainer for access)
 
 ### Running the Application
