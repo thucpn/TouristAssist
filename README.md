@@ -6,6 +6,8 @@ TouristAssist is an all-in-one AI assistant for tourism in the Northern Territor
 
 **Project Showcase:** [TouristAssist on GovHack Hackerspace](https://hackerspace.govhack.org/projects/touristassist)
 
+**Website:** https://www.aintt.org/
+
 ## Features
 
 - AI-powered question answering system for tourism information
